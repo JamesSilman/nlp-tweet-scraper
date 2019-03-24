@@ -1,0 +1,9 @@
+Today’s frustration was brought to you by a combination of
+
+https://developer.apple.com/documentation/uikit/uivisualeffectview …
+
+... and …
+
+https://developer.apple.com/documentation/uikit/uiviewcontroller/1621355-modalpresentationstyle …
+
+…but mostly .

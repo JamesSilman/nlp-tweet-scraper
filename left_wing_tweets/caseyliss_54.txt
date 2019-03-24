@@ -1,0 +1,3 @@
+Finally figured it out — or at least, part of it. @Tucker1011 nailed it.
+
+The original media was quadraphonic (‽‽) and that hosed everything up. When I converted to stereo it played no problem.

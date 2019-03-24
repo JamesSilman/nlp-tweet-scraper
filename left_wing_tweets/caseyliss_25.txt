@@ -1,0 +1,3 @@
+Does anyone have a decent and concise sample of UIViewControllerAnimatedTransitioning they’d like to point me to?
+
+Trying to animate from a UIImageView inside a UITableViewCell to a whole new UIViewController and, well, I’m going to be bald soon.

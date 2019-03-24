@@ -1,0 +1,6 @@
+Finally got a phone-playable version of this file. Ended up using @donmelton’s scripts; worked first try. Wish I thought of it sooner. 
+
+Still don’t understand *why* it worked, but it worked.
+
+← functional file
+original that wouldn’t play →

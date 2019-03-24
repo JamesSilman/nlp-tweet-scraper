@@ -1,0 +1,3 @@
+Many of Spotify’s complaints are ascribing malice to limitations of young products.
+
+Any developer, Watch or HomePod owner, or Siri user can tell you that Spotify wasn’t the reason Watch podcast apps sucked before watchOS 5 or that SiriKit and HomePod have no audio intents yet.

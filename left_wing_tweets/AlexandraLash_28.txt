@@ -1,0 +1,1 @@
+Awesome thread (and blog post) from my colleague @mouthofmorrison about the complications involved in building accurate deep learning models! For those of us who are ML-adjacent, there are lots of great gifs accompanying the concepts https://www.azavea.com/blog/2019/02/13/accuracy-is-in-the-eye-of-the-beholder/ …

@@ -1,0 +1,6 @@
+∆ between the two that I can see:
+
+• Decreased video & audio bitrate
+• Video is using h264 high instead of main
+• Video is now “90ktbn, 180k tbc” instead of 30k/60k, whatever that means.
+• …?

@@ -1,0 +1,7 @@
+Imagine the  moment I had when I realized that the solution to an animation problem I was working on could be solved with… keyframes.
+
+Just like in FCPX.
+
+
+
+https://developer.apple.com/documentation/uikit/uiview/1622552-animatekeyframes …

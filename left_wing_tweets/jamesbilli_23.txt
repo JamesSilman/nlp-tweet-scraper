@@ -1,0 +1,1 @@
+How can you check if your computer is compromised? Here's a great checklist for Admins investigating Windows boxes http://gbhackers.com/penetration-testing-cheat-sheet-windows-machine-intrusion-detection …

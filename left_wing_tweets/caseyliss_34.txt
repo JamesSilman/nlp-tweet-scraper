@@ -1,0 +1,7 @@
+In year-old news, os_signpost is pretty great.
+
+Unsurprisingly, @johnsundell has a great write-up.
+
+https://www.swiftbysundell.com/daily-wwdc/getting-started-with-signposts …
+
+For even more, see the WWDC session:

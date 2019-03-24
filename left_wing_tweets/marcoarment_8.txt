@@ -1,0 +1,6 @@
+Yup. My software wishlist, in descending priority:
+
+- Marzipan
+- @gruber and @markgurman’s “Amber” declarative-UI framework
+- Full-blown SiriKit audio intent
+- SiriKit intents with dynamic parameters

@@ -1,0 +1,5 @@
+Nice to see an iMac spec-bump, finally.
+
+Shame they haven’t included the T2 and its huge security benefits. I was hoping to see all Macs with T2 chips by the end of the year.
+
+Best guess as to why: they still offer spinning disks in iMacs. T2 probably can’t be used with them.

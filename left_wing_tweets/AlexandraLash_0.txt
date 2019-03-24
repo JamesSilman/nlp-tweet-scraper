@@ -1,0 +1,5 @@
+.@JamesSilman: If I get my model to be 70% accurate, would that be good?
+Me: I dunno. I don’t do machine learning. Is it?
+James: I’m asking you. Would *you* think it’s good?
+Me: No. That’s like a C- basically.
+James:

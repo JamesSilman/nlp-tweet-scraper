@@ -1,0 +1,1 @@
+Fantastic article by Darren Freestone @lockandcode on the implications of the SHA1 collision for digital forensics http://lockandcode.com/miscellaneous/sha1-collision-df-implications …

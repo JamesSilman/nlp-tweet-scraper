@@ -1,0 +1,3 @@
+I’d welcome this, but both are likely dependent on Intel’s Xeon roadmap, and that’s very hard to predict.
+
+As far as I can tell, the current iMac Pro CPUs are still the best workstation-class Xeons. And they added a higher GPU option today to extend this generation further.

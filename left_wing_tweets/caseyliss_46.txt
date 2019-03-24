@@ -1,0 +1,4 @@
+Ignorant question:
+Is it possible to set up Homebridge in a docker container — on my Synology — *without* using host networking (thus, bridging instead)?
+
+Is it possible to dedicate one of my three otherwise-unused NICs to a single docker image?
